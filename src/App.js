@@ -1,6 +1,7 @@
 import './App.css';
  import LogoPizzetas from './componentes/logo-pizzetas';
- import ListaTareas from './componentes/Lista-tareas';
+ import ContenedorTareas from './componentes/ContenedorTareas';
+ 
  
 
 function App() {
@@ -9,7 +10,9 @@ function App() {
     <div className="aplicacion-tareas">
       <LogoPizzetas />
 
-      <ListaTareas />
+      <ContenedorTareas />
+
+      
 
       
     </div>   

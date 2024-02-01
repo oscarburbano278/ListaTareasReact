@@ -1,6 +1,6 @@
 /*lista tareas*/
 
-.lista-principal{
+.contenedor-lista-principal{
     width: 600px;
     min-height: 400px;
     background-color: rgb(161, 161, 172);
