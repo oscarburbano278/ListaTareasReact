@@ -10,9 +10,7 @@ function App() {
     <div className="aplicacion-tareas">
       <LogoPizzetas />
 
-      <ContenedorTareas />
-
-      
+      <ContenedorTareas />    
 
       
     </div>   
