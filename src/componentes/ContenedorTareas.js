@@ -1,10 +1,12 @@
 import React from "react";
 import '../estilos/lista-tareas.css'
 //import Tarea from "./Tarea";
-import TareaFormulario from "./TareaFormulario";
+//import TareaFormulario from "./TareaFormulario";
+import ListaDeTareas from "./ListaDeTareas";
 
 
 function ContenedorTareas (){
+    
     return(
         <div className='contenedor-lista-principal'>
             <h1>Mis Tareas</h1>
@@ -13,7 +15,9 @@ function ContenedorTareas (){
             texto='Aprender React'
             /> */}
 
-            <TareaFormulario />
+            
+
+            <ListaDeTareas />
         </div>
     )
 }
