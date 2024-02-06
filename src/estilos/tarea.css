@@ -42,6 +42,6 @@
 
 /*tarea completada*/
 .tarea-contenedor.completada {
-  background-color: aqua;
+  background-color: rgb(114, 209, 193);
   text-decoration: line-through;
 }
